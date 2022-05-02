@@ -14,3 +14,15 @@ Sections:
 ### Type of support:
 - Financial. Subscribe to monthly financial support. Assistance with a specific financial request, goods 
 - Intangible assistance. Education, Meetings, consultations, congratulations on the holidays.
+
+## Desighn
+
+![](img/Web_App_1.png)
+
+![](img/Web_App_2.png)
+
+![](img/Web_App_3.png)
+
+![](img/Web_App_4.png)
+
+![](img/Web_App_5.png)
