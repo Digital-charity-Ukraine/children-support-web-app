@@ -1,4 +1,4 @@
-# Children support Web App
+# Children support Web App (under development)
 
 This project main prupose is to help the children of Ukraine that was affected by this war. 
 We want to help children and teenagers whose parents or one of the parents was killed during the Russian Ukraine war.
@@ -15,7 +15,7 @@ Sections:
 - Financial. Subscribe to monthly financial support. Assistance with a specific financial request, goods 
 - Intangible assistance. Education, Meetings, consultations, congratulations on the holidays.
 
-## Desighn
+## Design
 
 ![](img/Web_App_1.png)
 
